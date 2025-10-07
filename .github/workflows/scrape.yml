@@ -53,7 +53,7 @@ jobs:
 
           # Always pull latest before committing to avoid conflicts
           echo "Pulling latest changes from remote..."
-          git pull --rebase origin main
+          git -c rebase.autoStash=true pull --rebase origin main
 
           # Now add and commit
           git add windows_iso_links.json
@@ -77,7 +77,7 @@ jobs:
 
             if [ $retry_count -lt $max_retries ]; then
               echo "⚠ Push failed, pulling latest changes..."
-              git pull --rebase origin main
+              git -c rebase.autoStash=true pull --rebase origin main
               sleep 3
             fi
           done
