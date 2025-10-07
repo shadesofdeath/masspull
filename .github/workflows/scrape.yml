@@ -1,0 +1,62 @@
+name: Scrape Windows ISO Links
+
+on:
+  # Schedule: Run daily at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run scraper
+        run: |
+          python scraper.py
+
+      - name: Check if JSON changed
+        id: check_changes
+        run: |
+          git add windows_iso_links.json
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in windows_iso_links.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in windows_iso_links.json"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add windows_iso_links.json
+          git commit -m "🤖 Update Windows ISO links - $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push
+
+      - name: Upload JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-iso-links
+          path: windows_iso_links.json
+          retention-days: 90
