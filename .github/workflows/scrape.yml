@@ -33,32 +33,50 @@ jobs:
         run: |
           python scraper.py
 
-      - name: Check if JSON changed
-        id: check_changes
+      - name: Commit and push if changed
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add windows_iso_links.json
+
           if git diff --staged --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected in windows_iso_links.json"
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-            echo "Changes detected in windows_iso_links.json"
+            exit 0
           fi
 
-      - name: Commit and push if changed
-        if: steps.check_changes.outputs.changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🤖 Update Windows ISO links - ${{ github.run_id }}
+          git commit -m "🤖 Update Windows ISO links - $(date -u '+%Y-%m-%d %H:%M:%S UTC')
 
           Co-Authored-By: Claude <noreply@anthropic.com>"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
-          file_pattern: "windows_iso_links.json"
-          push_options: '--force'
-          skip_fetch: false
-          skip_checkout: false
+
+          # Pull latest changes with rebase to avoid conflicts
+          git pull --rebase origin main || {
+            echo "Pull failed, trying to continue..."
+            git rebase --abort || true
+          }
+
+          # Push with retry logic
+          max_retries=3
+          retry_count=0
+
+          while [ $retry_count -lt $max_retries ]; do
+            if git push origin main; then
+              echo "Successfully pushed changes"
+              exit 0
+            else
+              echo "Push failed, attempt $((retry_count + 1))/$max_retries"
+              retry_count=$((retry_count + 1))
+
+              if [ $retry_count -lt $max_retries ]; then
+                echo "Pulling latest changes and retrying..."
+                git pull --rebase origin main || true
+                sleep 2
+              fi
+            fi
+          done
+
+          echo "Failed to push after $max_retries attempts"
+          exit 1
 
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
