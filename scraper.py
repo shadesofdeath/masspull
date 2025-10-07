@@ -21,7 +21,7 @@ MD_FILES = [
     "windows_8.1_links.md",
     "windows_arm_links.md",
     "windows_ltsc_links.md",
-    "windows_vista_links.md",
+    "windows_vista__links.md",
     "windows_xp_links.md"
 ]
 
@@ -89,6 +89,38 @@ def extract_markdown_table_data(table_content: str) -> List[Dict[str, str]]:
     return results
 
 
+def parse_headings_versions(content: str) -> List[Dict[str, Any]]:
+    """Parse versions from markdown H2 sections when Tabs are not used.
+
+    For files like Windows XP where versions are presented under headings
+    like '## Windows XP SP3 VL (x86)', parse the following table.
+    """
+    versions: List[Dict[str, Any]] = []
+    headings = list(re.finditer(r'(?m)^##\s+(.+?)\s*$', content))
+    if not headings:
+        return versions
+
+    for i, m in enumerate(headings):
+        title = m.group(1).strip()
+        start = m.end()
+        end = headings[i + 1].start() if i + 1 < len(headings) else len(content)
+        section = content[start:end]
+
+        downloads = extract_markdown_table_data(section)
+        if not downloads:
+            continue
+
+        build = extract_build_number(section)
+        versions.append({
+            "version_name": title,
+            "version_label": title,
+            "build": build,
+            "downloads": downloads,
+        })
+
+    return versions
+
+
 def parse_windows_versions(content: str) -> List[Dict[str, Any]]:
     """Parse all Windows versions from a markdown file"""
     versions = []
@@ -126,6 +158,10 @@ def parse_windows_versions(content: str) -> List[Dict[str, Any]]:
                     "downloads": downloads
                 }
                 versions.append(version_data)
+
+    # Fallback for files without MDX Tabs (e.g., Windows XP)
+    if not versions:
+        versions = parse_headings_versions(content)
 
     return versions
 
