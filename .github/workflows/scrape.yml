@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -54,6 +56,9 @@ jobs:
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           file_pattern: "windows_iso_links.json"
+          push_options: '--force'
+          skip_fetch: false
+          skip_checkout: false
 
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
