@@ -45,14 +45,15 @@ jobs:
 
       - name: Commit and push if changed
         if: steps.check_changes.outputs.changed == 'true'
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add windows_iso_links.json
-          git commit -m "🤖 Update Windows ISO links - $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Update Windows ISO links - ${{ github.run_id }}
 
           Co-Authored-By: Claude <noreply@anthropic.com>"
-          git push
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          file_pattern: "windows_iso_links.json"
 
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
