@@ -13,7 +13,7 @@ from datetime import datetime
 # Base URLs
 BASE_RAW_URL = "https://raw.githubusercontent.com/massgravel/massgrave.dev/refs/heads/main/docs/"
 
-# Files to scrape
+# Files to scrape (Windows)
 MD_FILES = [
     "windows_11_links.md",
     "windows_10_links.md",
@@ -24,6 +24,9 @@ MD_FILES = [
     "windows_vista__links.md",
     "windows_xp_links.md"
 ]
+
+# Files to scrape (Office)
+OFFICE_MD_FILE = "office_msi_links.md"
 
 
 def fetch_markdown_content(filename: str) -> str:
@@ -87,6 +90,18 @@ def extract_markdown_table_data(table_content: str) -> List[Dict[str, str]]:
                     })
 
     return results
+
+
+def extract_tabitems_with_content(section: str) -> List[Dict[str, Any]]:
+    """Extract TabItem blocks (value, label, inner content) from a section."""
+    items: List[Dict[str, Any]] = []
+    for value, label, inner in re.findall(r'<TabItem[^>]*value=\"([^\"]+)\"[^>]*label=\"([^\"]+)\"[^>]*>(.*?)</TabItem>', section, re.DOTALL):
+        items.append({
+            "value": value,
+            "label": label,
+            "content": inner,
+        })
+    return items
 
 
 def parse_headings_versions(content: str) -> List[Dict[str, Any]]:
@@ -166,12 +181,51 @@ def parse_windows_versions(content: str) -> List[Dict[str, Any]]:
     return versions
 
 
+def parse_office_sections(content: str) -> Dict[str, List[Dict[str, Any]]]:
+    """Parse Office MSI markdown grouped by Office year (H2 headings).
+
+    Returns mapping of category (e.g., 'Office 2016') to list of version dicts.
+    """
+    office_data: Dict[str, List[Dict[str, Any]]] = {}
+
+    # Find H2 headings like '## Office 2016', '## Office 2013', etc.
+    headings = list(re.finditer(r'(?m)^##\s+(Office\s+\d{4})\s*$', content))
+    if not headings:
+        return office_data
+
+    for i, m in enumerate(headings):
+        category = m.group(1).strip()
+        start = m.end()
+        end = headings[i + 1].start() if i + 1 < len(headings) else len(content)
+        section = content[start:end]
+
+        tabitems = extract_tabitems_with_content(section)
+        versions: List[Dict[str, Any]] = []
+        for ti in tabitems:
+            downloads = extract_markdown_table_data(ti["content"])
+            if not downloads:
+                continue
+            build = extract_build_number(ti["content"])  # typically Unknown for Office
+            versions.append({
+                "version_name": ti["value"],
+                "version_label": ti["label"],
+                "build": build,
+                "downloads": downloads,
+            })
+
+        if versions:
+            office_data[category] = versions
+
+    return office_data
+
+
 def scrape_all_windows_versions() -> Dict[str, Any]:
     """Scrape all Windows versions from all markdown files"""
     all_data = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
         "source": "https://github.com/massgravel/massgrave.dev",
-        "windows_versions": {}
+        "windows_versions": {},
+        "office_versions": {}
     }
 
     for md_file in MD_FILES:
@@ -221,6 +275,30 @@ def scrape_all_windows_versions() -> Dict[str, Any]:
     return all_data
 
 
+def scrape_office_versions(all_data: Dict[str, Any]) -> None:
+    """Fetch and parse Office MSI links and add to all_data in-place."""
+    try:
+        print(f"\n{'='*60}")
+        print(f"Processing: {OFFICE_MD_FILE}")
+        print(f"{'='*60}")
+
+        content = fetch_markdown_content(OFFICE_MD_FILE)
+        office_map = parse_office_sections(content)
+
+        if office_map:
+            all_data["office_versions"].update(office_map)
+            total_versions = sum(len(v) for v in office_map.values())
+            print(f"✔ Found {total_versions} Office version(s) across {len(office_map)} categories")
+            for category, versions in office_map.items():
+                print(f"  - {category}: {len(versions)} version(s)")
+        else:
+            print("✖ No Office versions found")
+
+    except Exception as e:
+        print(f"✖ Error processing {OFFICE_MD_FILE}: {str(e)}")
+        # Do not raise; keep Windows data intact
+
+
 def main():
     """Main execution function"""
     print("=" * 60)
@@ -231,6 +309,9 @@ def main():
     try:
         # Scrape all data
         data = scrape_all_windows_versions()
+
+        # Scrape Office data and merge
+        scrape_office_versions(data)
 
         # Save to JSON
         output_file = "windows_iso_links.json"
@@ -246,6 +327,11 @@ def main():
         # Print summary
         print("\nSummary:")
         for category, versions in data['windows_versions'].items():
+            total_downloads = sum(len(v['downloads']) for v in versions)
+            print(f"  {category}: {len(versions)} version(s), {total_downloads} download(s)")
+
+        print("\nSummary (Office):")
+        for category, versions in data['office_versions'].items():
             total_downloads = sum(len(v['downloads']) for v in versions)
             print(f"  {category}: {len(versions)} version(s), {total_downloads} download(s)")
 
