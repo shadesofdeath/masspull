@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T21:21:04.651098Z",
+  "last_updated": "2025-11-06T01:49:44.673806Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
@@ -5389,6 +5389,63 @@
             "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_kn_with_sp1_x86_dvd_u_677523.iso"
           }
         ]
+      },
+      {
+        "version_name": "Windows Embedded 7",
+        "version_label": "Windows Embedded 7",
+        "build": "Unknown",
+        "downloads": [
+          {
+            "language": "English",
+            "architecture": "x64",
+            "filename": "en_windows_embedded_posready_7_eval_x64_dvd_698169.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_posready_7_eval_x64_dvd_698169.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x32",
+            "filename": "en_windows_embedded_posready_7_eval_x86_dvd_698168.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_posready_7_eval_x86_dvd_698168.iso"
+          }
+        ]
+      },
+      {
+        "version_name": "Windows Embedded Standard 7 SP1",
+        "version_label": "Windows Embedded Standard 7 SP1",
+        "build": "Unknown",
+        "downloads": [
+          {
+            "language": "English",
+            "architecture": "x64",
+            "filename": "en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x32",
+            "filename": "en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x32",
+            "filename": "en_windows_embedded_standard_7_sp1_toolkit_x86_dvd_651894.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_toolkit_x86_dvd_651894.iso"
+          }
+        ]
+      },
+      {
+        "version_name": "Windows Thin PC",
+        "version_label": "Windows Thin PC",
+        "build": "Unknown",
+        "downloads": [
+          {
+            "language": "English",
+            "architecture": "x32",
+            "filename": "en_windows_thin_pc_x86_697681.iso",
+            "url": "https://drive.massgrave.dev/en_windows_thin_pc_x86_697681.iso"
+          }
+        ]
       }
     ],
     "Windows 8.1": [
@@ -6746,908 +6803,6 @@
         ]
       },
       {
-        "version_name": "Windows Embedded 8.1 Industry Professional",
-        "version_label": "Windows Embedded 8.1 Industry Professional",
-        "build": "Unknown",
-        "downloads": [
-          {
-            "language": "Arabic",
-            "architecture": "x64",
-            "filename": "ar_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052077.iso",
-            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052077.iso"
-          },
-          {
-            "language": "Arabic",
-            "architecture": "x32",
-            "filename": "ar_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052114.iso",
-            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052114.iso"
-          },
-          {
-            "language": "Bulgarian",
-            "architecture": "x64",
-            "filename": "bg_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052078.iso",
-            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052078.iso"
-          },
-          {
-            "language": "Bulgarian",
-            "architecture": "x32",
-            "filename": "bg_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052115.iso",
-            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052115.iso"
-          },
-          {
-            "language": "Chinese - Hong Kong SAR",
-            "architecture": "x64",
-            "filename": "hk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052080.iso",
-            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052080.iso"
-          },
-          {
-            "language": "Chinese - Hong Kong SAR",
-            "architecture": "x32",
-            "filename": "hk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052117.iso",
-            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052117.iso"
-          },
-          {
-            "language": "Chinese - Simplified",
-            "architecture": "x64",
-            "filename": "cn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052079.iso",
-            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052079.iso"
-          },
-          {
-            "language": "Chinese - Simplified",
-            "architecture": "x32",
-            "filename": "cn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052116.iso",
-            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052116.iso"
-          },
-          {
-            "language": "Chinese - Traditional",
-            "architecture": "x64",
-            "filename": "tw_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052081.iso",
-            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052081.iso"
-          },
-          {
-            "language": "Chinese - Traditional",
-            "architecture": "x32",
-            "filename": "tw_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052118.iso",
-            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052118.iso"
-          },
-          {
-            "language": "Croatian",
-            "architecture": "x64",
-            "filename": "hr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052082.iso",
-            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052082.iso"
-          },
-          {
-            "language": "Croatian",
-            "architecture": "x32",
-            "filename": "hr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052119.iso",
-            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052119.iso"
-          },
-          {
-            "language": "Czech",
-            "architecture": "x64",
-            "filename": "cs_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052083.iso",
-            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052083.iso"
-          },
-          {
-            "language": "Czech",
-            "architecture": "x32",
-            "filename": "cs_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052120.iso",
-            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052120.iso"
-          },
-          {
-            "language": "Danish",
-            "architecture": "x64",
-            "filename": "da_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052084.iso",
-            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052084.iso"
-          },
-          {
-            "language": "Danish",
-            "architecture": "x32",
-            "filename": "da_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052121.iso",
-            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052121.iso"
-          },
-          {
-            "language": "Dutch",
-            "architecture": "x64",
-            "filename": "nl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052085.iso",
-            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052085.iso"
-          },
-          {
-            "language": "Dutch",
-            "architecture": "x32",
-            "filename": "nl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052122.iso",
-            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052122.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x64",
-            "filename": "en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x32",
-            "filename": "en_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052123.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052123.iso"
-          },
-          {
-            "language": "English - United Kingdom",
-            "architecture": "x64",
-            "filename": "en-gb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052087.iso",
-            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052087.iso"
-          },
-          {
-            "language": "English - United Kingdom",
-            "architecture": "x32",
-            "filename": "en-gb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052124.iso",
-            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052124.iso"
-          },
-          {
-            "language": "Estonian",
-            "architecture": "x64",
-            "filename": "et_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052088.iso",
-            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052088.iso"
-          },
-          {
-            "language": "Estonian",
-            "architecture": "x32",
-            "filename": "et_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052125.iso",
-            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052125.iso"
-          },
-          {
-            "language": "Finnish",
-            "architecture": "x64",
-            "filename": "fi_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052089.iso",
-            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052089.iso"
-          },
-          {
-            "language": "Finnish",
-            "architecture": "x32",
-            "filename": "fi_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052126.iso",
-            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052126.iso"
-          },
-          {
-            "language": "French",
-            "architecture": "x64",
-            "filename": "fr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052090.iso",
-            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052090.iso"
-          },
-          {
-            "language": "French",
-            "architecture": "x32",
-            "filename": "fr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052127.iso",
-            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052127.iso"
-          },
-          {
-            "language": "German",
-            "architecture": "x64",
-            "filename": "de_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052091.iso",
-            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052091.iso"
-          },
-          {
-            "language": "German",
-            "architecture": "x32",
-            "filename": "de_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052128.iso",
-            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052128.iso"
-          },
-          {
-            "language": "Greek",
-            "architecture": "x64",
-            "filename": "el_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052092.iso",
-            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052092.iso"
-          },
-          {
-            "language": "Greek",
-            "architecture": "x32",
-            "filename": "el_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052129.iso",
-            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052129.iso"
-          },
-          {
-            "language": "Hebrew",
-            "architecture": "x64",
-            "filename": "he_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052093.iso",
-            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052093.iso"
-          },
-          {
-            "language": "Hebrew",
-            "architecture": "x32",
-            "filename": "he_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052130.iso",
-            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052130.iso"
-          },
-          {
-            "language": "Hungarian",
-            "architecture": "x64",
-            "filename": "hu_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052094.iso",
-            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052094.iso"
-          },
-          {
-            "language": "Hungarian",
-            "architecture": "x32",
-            "filename": "hu_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052131.iso",
-            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052131.iso"
-          },
-          {
-            "language": "Italian",
-            "architecture": "x64",
-            "filename": "it_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052095.iso",
-            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052095.iso"
-          },
-          {
-            "language": "Italian",
-            "architecture": "x32",
-            "filename": "it_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052132.iso",
-            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052132.iso"
-          },
-          {
-            "language": "Japanese",
-            "architecture": "x64",
-            "filename": "ja_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052096.iso",
-            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052096.iso"
-          },
-          {
-            "language": "Japanese",
-            "architecture": "x32",
-            "filename": "ja_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052133.iso",
-            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052133.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052097.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052097.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052134.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052134.iso"
-          },
-          {
-            "language": "Latvian",
-            "architecture": "x64",
-            "filename": "lv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052098.iso",
-            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052098.iso"
-          },
-          {
-            "language": "Latvian",
-            "architecture": "x32",
-            "filename": "lv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052135.iso",
-            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052135.iso"
-          },
-          {
-            "language": "Lithuanian",
-            "architecture": "x64",
-            "filename": "lt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052099.iso",
-            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052099.iso"
-          },
-          {
-            "language": "Lithuanian",
-            "architecture": "x32",
-            "filename": "lt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052136.iso",
-            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052136.iso"
-          },
-          {
-            "language": "Norwegian",
-            "architecture": "x64",
-            "filename": "nb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052100.iso",
-            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052100.iso"
-          },
-          {
-            "language": "Norwegian",
-            "architecture": "x32",
-            "filename": "nb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052137.iso",
-            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052137.iso"
-          },
-          {
-            "language": "Polish",
-            "architecture": "x64",
-            "filename": "pl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052101.iso",
-            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052101.iso"
-          },
-          {
-            "language": "Polish",
-            "architecture": "x32",
-            "filename": "pl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052138.iso",
-            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052138.iso"
-          },
-          {
-            "language": "Portuguese - Brazil",
-            "architecture": "x64",
-            "filename": "pt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052102.iso",
-            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052102.iso"
-          },
-          {
-            "language": "Portuguese - Brazil",
-            "architecture": "x32",
-            "filename": "pt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052139.iso",
-            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052139.iso"
-          },
-          {
-            "language": "Portuguese - Portugal",
-            "architecture": "x64",
-            "filename": "pp_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052103.iso",
-            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052103.iso"
-          },
-          {
-            "language": "Portuguese - Portugal",
-            "architecture": "x32",
-            "filename": "pp_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052140.iso",
-            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052140.iso"
-          },
-          {
-            "language": "Romanian",
-            "architecture": "x64",
-            "filename": "ro_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052104.iso",
-            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052104.iso"
-          },
-          {
-            "language": "Romanian",
-            "architecture": "x32",
-            "filename": "ro_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052141.iso",
-            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052141.iso"
-          },
-          {
-            "language": "Russian",
-            "architecture": "x64",
-            "filename": "ru_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052105.iso",
-            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052105.iso"
-          },
-          {
-            "language": "Russian",
-            "architecture": "x32",
-            "filename": "ru_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052142.iso",
-            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052142.iso"
-          },
-          {
-            "language": "Serbian",
-            "architecture": "x64",
-            "filename": "sr-latn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052106.iso",
-            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052106.iso"
-          },
-          {
-            "language": "Serbian",
-            "architecture": "x32",
-            "filename": "sr-latn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075508.iso",
-            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075508.iso"
-          },
-          {
-            "language": "Slovak",
-            "architecture": "x64",
-            "filename": "sk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052107.iso",
-            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052107.iso"
-          },
-          {
-            "language": "Slovak",
-            "architecture": "x32",
-            "filename": "sk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075523.iso",
-            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075523.iso"
-          },
-          {
-            "language": "Slovenian",
-            "architecture": "x64",
-            "filename": "sl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052108.iso",
-            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052108.iso"
-          },
-          {
-            "language": "Slovenian",
-            "architecture": "x32",
-            "filename": "sl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052145.iso",
-            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052145.iso"
-          },
-          {
-            "language": "Spanish",
-            "architecture": "x64",
-            "filename": "es_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052109.iso",
-            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052109.iso"
-          },
-          {
-            "language": "Spanish",
-            "architecture": "x32",
-            "filename": "es_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052146.iso",
-            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052146.iso"
-          },
-          {
-            "language": "Swedish",
-            "architecture": "x64",
-            "filename": "sv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052110.iso",
-            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052110.iso"
-          },
-          {
-            "language": "Swedish",
-            "architecture": "x32",
-            "filename": "sv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052147.iso",
-            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052147.iso"
-          },
-          {
-            "language": "Thai",
-            "architecture": "x64",
-            "filename": "th_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052111.iso",
-            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052111.iso"
-          },
-          {
-            "language": "Thai",
-            "architecture": "x32",
-            "filename": "th_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052148.iso",
-            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052148.iso"
-          },
-          {
-            "language": "Turkish",
-            "architecture": "x64",
-            "filename": "tr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052112.iso",
-            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052112.iso"
-          },
-          {
-            "language": "Turkish",
-            "architecture": "x32",
-            "filename": "tr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052149.iso",
-            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052149.iso"
-          },
-          {
-            "language": "Ukrainian",
-            "architecture": "x64",
-            "filename": "uk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052113.iso",
-            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052113.iso"
-          },
-          {
-            "language": "Ukrainian",
-            "architecture": "x32",
-            "filename": "uk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052150.iso",
-            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052150.iso"
-          }
-        ]
-      },
-      {
-        "version_name": "Windows Embedded 8.1 Industry Enterprise",
-        "version_label": "Windows Embedded 8.1 Industry Enterprise",
-        "build": "Unknown",
-        "downloads": [
-          {
-            "language": "Arabic",
-            "architecture": "x64",
-            "filename": "ar_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052151.iso",
-            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052151.iso"
-          },
-          {
-            "language": "Arabic",
-            "architecture": "x32",
-            "filename": "ar_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052211.iso",
-            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052211.iso"
-          },
-          {
-            "language": "Bulgarian",
-            "architecture": "x64",
-            "filename": "bg_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052152.iso",
-            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052152.iso"
-          },
-          {
-            "language": "Bulgarian",
-            "architecture": "x32",
-            "filename": "bg_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052212.iso",
-            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052212.iso"
-          },
-          {
-            "language": "Chinese - Hong Kong SAR",
-            "architecture": "x64",
-            "filename": "hk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052154.iso",
-            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052154.iso"
-          },
-          {
-            "language": "Chinese - Hong Kong SAR",
-            "architecture": "x32",
-            "filename": "hk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052223.iso",
-            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052223.iso"
-          },
-          {
-            "language": "Chinese - Simplified",
-            "architecture": "x64",
-            "filename": "cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso",
-            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso"
-          },
-          {
-            "language": "Chinese - Simplified",
-            "architecture": "x32",
-            "filename": "cn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052218.iso",
-            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052218.iso"
-          },
-          {
-            "language": "Chinese - Traditional",
-            "architecture": "x64",
-            "filename": "tw_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052155.iso",
-            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052155.iso"
-          },
-          {
-            "language": "Chinese - Traditional",
-            "architecture": "x32",
-            "filename": "tw_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052231.iso",
-            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052231.iso"
-          },
-          {
-            "language": "Croatian",
-            "architecture": "x64",
-            "filename": "hr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052156.iso",
-            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052156.iso"
-          },
-          {
-            "language": "Croatian",
-            "architecture": "x32",
-            "filename": "hr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052238.iso",
-            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052238.iso"
-          },
-          {
-            "language": "Czech",
-            "architecture": "x64",
-            "filename": "cs_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052157.iso",
-            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052157.iso"
-          },
-          {
-            "language": "Czech",
-            "architecture": "x32",
-            "filename": "cs_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052240.iso",
-            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052240.iso"
-          },
-          {
-            "language": "Danish",
-            "architecture": "x64",
-            "filename": "da_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052158.iso",
-            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052158.iso"
-          },
-          {
-            "language": "Danish",
-            "architecture": "x32",
-            "filename": "da_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6075580.iso",
-            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6075580.iso"
-          },
-          {
-            "language": "Dutch",
-            "architecture": "x64",
-            "filename": "nl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052159.iso",
-            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052159.iso"
-          },
-          {
-            "language": "Dutch",
-            "architecture": "x32",
-            "filename": "nl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052247.iso",
-            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052247.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x64",
-            "filename": "en_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052160.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052160.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x32",
-            "filename": "en_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052252.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052252.iso"
-          },
-          {
-            "language": "English - United Kingdom",
-            "architecture": "x64",
-            "filename": "en-gb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052165.iso",
-            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052165.iso"
-          },
-          {
-            "language": "English - United Kingdom",
-            "architecture": "x32",
-            "filename": "en-gb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052254.iso",
-            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052254.iso"
-          },
-          {
-            "language": "Estonian",
-            "architecture": "x64",
-            "filename": "et_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052172.iso",
-            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052172.iso"
-          },
-          {
-            "language": "Estonian",
-            "architecture": "x32",
-            "filename": "et_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052255.iso",
-            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052255.iso"
-          },
-          {
-            "language": "Finnish",
-            "architecture": "x64",
-            "filename": "fi_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052177.iso",
-            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052177.iso"
-          },
-          {
-            "language": "Finnish",
-            "architecture": "x32",
-            "filename": "fi_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052256.iso",
-            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052256.iso"
-          },
-          {
-            "language": "French",
-            "architecture": "x64",
-            "filename": "fr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052183.iso",
-            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052183.iso"
-          },
-          {
-            "language": "French",
-            "architecture": "x32",
-            "filename": "fr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052257.iso",
-            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052257.iso"
-          },
-          {
-            "language": "German",
-            "architecture": "x64",
-            "filename": "de_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075540.iso",
-            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075540.iso"
-          },
-          {
-            "language": "German",
-            "architecture": "x32",
-            "filename": "de_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052258.iso",
-            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052258.iso"
-          },
-          {
-            "language": "Greek",
-            "architecture": "x64",
-            "filename": "el_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6068418.iso",
-            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6068418.iso"
-          },
-          {
-            "language": "Greek",
-            "architecture": "x32",
-            "filename": "el_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6068419.iso",
-            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6068419.iso"
-          },
-          {
-            "language": "Hebrew",
-            "architecture": "x64",
-            "filename": "he_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052189.iso",
-            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052189.iso"
-          },
-          {
-            "language": "Hebrew",
-            "architecture": "x32",
-            "filename": "he_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052259.iso",
-            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052259.iso"
-          },
-          {
-            "language": "Hungarian",
-            "architecture": "x64",
-            "filename": "hu_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075554.iso",
-            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075554.iso"
-          },
-          {
-            "language": "Hungarian",
-            "architecture": "x32",
-            "filename": "hu_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052260.iso",
-            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052260.iso"
-          },
-          {
-            "language": "Italian",
-            "architecture": "x64",
-            "filename": "it_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052191.iso",
-            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052191.iso"
-          },
-          {
-            "language": "Italian",
-            "architecture": "x32",
-            "filename": "it_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052265.iso",
-            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052265.iso"
-          },
-          {
-            "language": "Japanese",
-            "architecture": "x64",
-            "filename": "ja_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052192.iso",
-            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052192.iso"
-          },
-          {
-            "language": "Japanese",
-            "architecture": "x32",
-            "filename": "ja_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052271.iso",
-            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052271.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052193.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052193.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052275.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052275.iso"
-          },
-          {
-            "language": "Latvian",
-            "architecture": "x64",
-            "filename": "lv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052194.iso",
-            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052194.iso"
-          },
-          {
-            "language": "Latvian",
-            "architecture": "x32",
-            "filename": "lv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052280.iso",
-            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052280.iso"
-          },
-          {
-            "language": "Lithuanian",
-            "architecture": "x64",
-            "filename": "lt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052195.iso",
-            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052195.iso"
-          },
-          {
-            "language": "Lithuanian",
-            "architecture": "x32",
-            "filename": "lt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052285.iso",
-            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052285.iso"
-          },
-          {
-            "language": "Norwegian",
-            "architecture": "x64",
-            "filename": "nb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052196.iso",
-            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052196.iso"
-          },
-          {
-            "language": "Norwegian",
-            "architecture": "x32",
-            "filename": "nb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052289.iso",
-            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052289.iso"
-          },
-          {
-            "language": "Polish",
-            "architecture": "x64",
-            "filename": "pl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052197.iso",
-            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052197.iso"
-          },
-          {
-            "language": "Polish",
-            "architecture": "x32",
-            "filename": "pl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052294.iso",
-            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052294.iso"
-          },
-          {
-            "language": "Portuguese - Brazil",
-            "architecture": "x64",
-            "filename": "pt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052198.iso",
-            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052198.iso"
-          },
-          {
-            "language": "Portuguese - Brazil",
-            "architecture": "x32",
-            "filename": "pt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052297.iso",
-            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052297.iso"
-          },
-          {
-            "language": "Portuguese - Portugal",
-            "architecture": "x64",
-            "filename": "pp_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052199.iso",
-            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052199.iso"
-          },
-          {
-            "language": "Portuguese - Portugal",
-            "architecture": "x32",
-            "filename": "pp_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052298.iso",
-            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052298.iso"
-          },
-          {
-            "language": "Romanian",
-            "architecture": "x64",
-            "filename": "ro_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052200.iso",
-            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052200.iso"
-          },
-          {
-            "language": "Romanian",
-            "architecture": "x32",
-            "filename": "ro_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052299.iso",
-            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052299.iso"
-          },
-          {
-            "language": "Russian",
-            "architecture": "x64",
-            "filename": "ru_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052201.iso",
-            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052201.iso"
-          },
-          {
-            "language": "Russian",
-            "architecture": "x32",
-            "filename": "ru_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052300.iso",
-            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052300.iso"
-          },
-          {
-            "language": "Serbian",
-            "architecture": "x64",
-            "filename": "sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052202.iso",
-            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052202.is"
-          },
-          {
-            "language": "Serbian",
-            "architecture": "x32",
-            "filename": "sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052303.iso",
-            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052303.is"
-          },
-          {
-            "language": "Slovak",
-            "architecture": "x64",
-            "filename": "sk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052203.iso",
-            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052203.iso"
-          },
-          {
-            "language": "Slovak",
-            "architecture": "x32",
-            "filename": "sk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052308.iso",
-            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052308.iso"
-          },
-          {
-            "language": "Slovenian",
-            "architecture": "x64",
-            "filename": "sl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052204.iso",
-            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052204.iso"
-          },
-          {
-            "language": "Slovenian",
-            "architecture": "x32",
-            "filename": "sl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052314.iso",
-            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052314.iso"
-          },
-          {
-            "language": "Spanish",
-            "architecture": "x64",
-            "filename": "es_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052206.iso",
-            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052206.iso"
-          },
-          {
-            "language": "Spanish",
-            "architecture": "x32",
-            "filename": "es_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052318.iso",
-            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052318.iso"
-          },
-          {
-            "language": "Swedish",
-            "architecture": "x64",
-            "filename": "sv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052207.iso",
-            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052207.iso"
-          },
-          {
-            "language": "Swedish",
-            "architecture": "x32",
-            "filename": "sv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052324.iso",
-            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052324.iso"
-          },
-          {
-            "language": "Thai",
-            "architecture": "x64",
-            "filename": "th_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052208.iso",
-            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052208.iso"
-          },
-          {
-            "language": "Thai",
-            "architecture": "x32",
-            "filename": "th_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052326.iso",
-            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052326.iso"
-          },
-          {
-            "language": "Turkish",
-            "architecture": "x64",
-            "filename": "tr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075568.iso",
-            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075568.iso"
-          },
-          {
-            "language": "Turkish",
-            "architecture": "x32",
-            "filename": "tr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052327.iso",
-            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052327.iso"
-          },
-          {
-            "language": "Ukrainian",
-            "architecture": "x64",
-            "filename": "uk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052210.iso",
-            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052210.iso"
-          },
-          {
-            "language": "Ukrainian",
-            "architecture": "x32",
-            "filename": "uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso",
-            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso"
-          }
-        ]
-      },
-      {
         "version_name": "Windows 8.1 N with Update 3",
         "version_label": "Windows 8.1 N with Update 3",
         "build": "Unknown",
@@ -8565,6 +7720,908 @@
             "architecture": "x32",
             "filename": "sv_windows_8.1_enterprise_n_with_update_x86_dvd_6050351.iso",
             "url": "https://drive.massgrave.dev/sv_windows_8.1_enterprise_n_with_update_x86_dvd_6050351.iso"
+          }
+        ]
+      },
+      {
+        "version_name": "Windows Embedded 8.1",
+        "version_label": "Windows Embedded 8.1",
+        "build": "Unknown",
+        "downloads": [
+          {
+            "language": "Arabic",
+            "architecture": "x64",
+            "filename": "ar_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052077.iso",
+            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052077.iso"
+          },
+          {
+            "language": "Arabic",
+            "architecture": "x32",
+            "filename": "ar_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052114.iso",
+            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052114.iso"
+          },
+          {
+            "language": "Bulgarian",
+            "architecture": "x64",
+            "filename": "bg_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052078.iso",
+            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052078.iso"
+          },
+          {
+            "language": "Bulgarian",
+            "architecture": "x32",
+            "filename": "bg_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052115.iso",
+            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052115.iso"
+          },
+          {
+            "language": "Chinese - Hong Kong SAR",
+            "architecture": "x64",
+            "filename": "hk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052080.iso",
+            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052080.iso"
+          },
+          {
+            "language": "Chinese - Hong Kong SAR",
+            "architecture": "x32",
+            "filename": "hk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052117.iso",
+            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052117.iso"
+          },
+          {
+            "language": "Chinese - Simplified",
+            "architecture": "x64",
+            "filename": "cn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052079.iso",
+            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052079.iso"
+          },
+          {
+            "language": "Chinese - Simplified",
+            "architecture": "x32",
+            "filename": "cn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052116.iso",
+            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052116.iso"
+          },
+          {
+            "language": "Chinese - Traditional",
+            "architecture": "x64",
+            "filename": "tw_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052081.iso",
+            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052081.iso"
+          },
+          {
+            "language": "Chinese - Traditional",
+            "architecture": "x32",
+            "filename": "tw_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052118.iso",
+            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052118.iso"
+          },
+          {
+            "language": "Croatian",
+            "architecture": "x64",
+            "filename": "hr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052082.iso",
+            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052082.iso"
+          },
+          {
+            "language": "Croatian",
+            "architecture": "x32",
+            "filename": "hr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052119.iso",
+            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052119.iso"
+          },
+          {
+            "language": "Czech",
+            "architecture": "x64",
+            "filename": "cs_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052083.iso",
+            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052083.iso"
+          },
+          {
+            "language": "Czech",
+            "architecture": "x32",
+            "filename": "cs_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052120.iso",
+            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052120.iso"
+          },
+          {
+            "language": "Danish",
+            "architecture": "x64",
+            "filename": "da_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052084.iso",
+            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052084.iso"
+          },
+          {
+            "language": "Danish",
+            "architecture": "x32",
+            "filename": "da_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052121.iso",
+            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052121.iso"
+          },
+          {
+            "language": "Dutch",
+            "architecture": "x64",
+            "filename": "nl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052085.iso",
+            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052085.iso"
+          },
+          {
+            "language": "Dutch",
+            "architecture": "x32",
+            "filename": "nl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052122.iso",
+            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052122.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x64",
+            "filename": "en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x32",
+            "filename": "en_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052123.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052123.iso"
+          },
+          {
+            "language": "English - United Kingdom",
+            "architecture": "x64",
+            "filename": "en-gb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052087.iso",
+            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052087.iso"
+          },
+          {
+            "language": "English - United Kingdom",
+            "architecture": "x32",
+            "filename": "en-gb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052124.iso",
+            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052124.iso"
+          },
+          {
+            "language": "Estonian",
+            "architecture": "x64",
+            "filename": "et_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052088.iso",
+            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052088.iso"
+          },
+          {
+            "language": "Estonian",
+            "architecture": "x32",
+            "filename": "et_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052125.iso",
+            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052125.iso"
+          },
+          {
+            "language": "Finnish",
+            "architecture": "x64",
+            "filename": "fi_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052089.iso",
+            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052089.iso"
+          },
+          {
+            "language": "Finnish",
+            "architecture": "x32",
+            "filename": "fi_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052126.iso",
+            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052126.iso"
+          },
+          {
+            "language": "French",
+            "architecture": "x64",
+            "filename": "fr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052090.iso",
+            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052090.iso"
+          },
+          {
+            "language": "French",
+            "architecture": "x32",
+            "filename": "fr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052127.iso",
+            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052127.iso"
+          },
+          {
+            "language": "German",
+            "architecture": "x64",
+            "filename": "de_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052091.iso",
+            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052091.iso"
+          },
+          {
+            "language": "German",
+            "architecture": "x32",
+            "filename": "de_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052128.iso",
+            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052128.iso"
+          },
+          {
+            "language": "Greek",
+            "architecture": "x64",
+            "filename": "el_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052092.iso",
+            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052092.iso"
+          },
+          {
+            "language": "Greek",
+            "architecture": "x32",
+            "filename": "el_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052129.iso",
+            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052129.iso"
+          },
+          {
+            "language": "Hebrew",
+            "architecture": "x64",
+            "filename": "he_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052093.iso",
+            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052093.iso"
+          },
+          {
+            "language": "Hebrew",
+            "architecture": "x32",
+            "filename": "he_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052130.iso",
+            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052130.iso"
+          },
+          {
+            "language": "Hungarian",
+            "architecture": "x64",
+            "filename": "hu_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052094.iso",
+            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052094.iso"
+          },
+          {
+            "language": "Hungarian",
+            "architecture": "x32",
+            "filename": "hu_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052131.iso",
+            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052131.iso"
+          },
+          {
+            "language": "Italian",
+            "architecture": "x64",
+            "filename": "it_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052095.iso",
+            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052095.iso"
+          },
+          {
+            "language": "Italian",
+            "architecture": "x32",
+            "filename": "it_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052132.iso",
+            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052132.iso"
+          },
+          {
+            "language": "Japanese",
+            "architecture": "x64",
+            "filename": "ja_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052096.iso",
+            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052096.iso"
+          },
+          {
+            "language": "Japanese",
+            "architecture": "x32",
+            "filename": "ja_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052133.iso",
+            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052133.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052097.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052097.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052134.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052134.iso"
+          },
+          {
+            "language": "Latvian",
+            "architecture": "x64",
+            "filename": "lv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052098.iso",
+            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052098.iso"
+          },
+          {
+            "language": "Latvian",
+            "architecture": "x32",
+            "filename": "lv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052135.iso",
+            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052135.iso"
+          },
+          {
+            "language": "Lithuanian",
+            "architecture": "x64",
+            "filename": "lt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052099.iso",
+            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052099.iso"
+          },
+          {
+            "language": "Lithuanian",
+            "architecture": "x32",
+            "filename": "lt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052136.iso",
+            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052136.iso"
+          },
+          {
+            "language": "Norwegian",
+            "architecture": "x64",
+            "filename": "nb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052100.iso",
+            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052100.iso"
+          },
+          {
+            "language": "Norwegian",
+            "architecture": "x32",
+            "filename": "nb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052137.iso",
+            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052137.iso"
+          },
+          {
+            "language": "Polish",
+            "architecture": "x64",
+            "filename": "pl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052101.iso",
+            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052101.iso"
+          },
+          {
+            "language": "Polish",
+            "architecture": "x32",
+            "filename": "pl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052138.iso",
+            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052138.iso"
+          },
+          {
+            "language": "Portuguese - Brazil",
+            "architecture": "x64",
+            "filename": "pt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052102.iso",
+            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052102.iso"
+          },
+          {
+            "language": "Portuguese - Brazil",
+            "architecture": "x32",
+            "filename": "pt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052139.iso",
+            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052139.iso"
+          },
+          {
+            "language": "Portuguese - Portugal",
+            "architecture": "x64",
+            "filename": "pp_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052103.iso",
+            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052103.iso"
+          },
+          {
+            "language": "Portuguese - Portugal",
+            "architecture": "x32",
+            "filename": "pp_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052140.iso",
+            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052140.iso"
+          },
+          {
+            "language": "Romanian",
+            "architecture": "x64",
+            "filename": "ro_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052104.iso",
+            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052104.iso"
+          },
+          {
+            "language": "Romanian",
+            "architecture": "x32",
+            "filename": "ro_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052141.iso",
+            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052141.iso"
+          },
+          {
+            "language": "Russian",
+            "architecture": "x64",
+            "filename": "ru_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052105.iso",
+            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052105.iso"
+          },
+          {
+            "language": "Russian",
+            "architecture": "x32",
+            "filename": "ru_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052142.iso",
+            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052142.iso"
+          },
+          {
+            "language": "Serbian",
+            "architecture": "x64",
+            "filename": "sr-latn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052106.iso",
+            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052106.iso"
+          },
+          {
+            "language": "Serbian",
+            "architecture": "x32",
+            "filename": "sr-latn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075508.iso",
+            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075508.iso"
+          },
+          {
+            "language": "Slovak",
+            "architecture": "x64",
+            "filename": "sk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052107.iso",
+            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052107.iso"
+          },
+          {
+            "language": "Slovak",
+            "architecture": "x32",
+            "filename": "sk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075523.iso",
+            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6075523.iso"
+          },
+          {
+            "language": "Slovenian",
+            "architecture": "x64",
+            "filename": "sl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052108.iso",
+            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052108.iso"
+          },
+          {
+            "language": "Slovenian",
+            "architecture": "x32",
+            "filename": "sl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052145.iso",
+            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052145.iso"
+          },
+          {
+            "language": "Spanish",
+            "architecture": "x64",
+            "filename": "es_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052109.iso",
+            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052109.iso"
+          },
+          {
+            "language": "Spanish",
+            "architecture": "x32",
+            "filename": "es_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052146.iso",
+            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052146.iso"
+          },
+          {
+            "language": "Swedish",
+            "architecture": "x64",
+            "filename": "sv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052110.iso",
+            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052110.iso"
+          },
+          {
+            "language": "Swedish",
+            "architecture": "x32",
+            "filename": "sv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052147.iso",
+            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052147.iso"
+          },
+          {
+            "language": "Thai",
+            "architecture": "x64",
+            "filename": "th_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052111.iso",
+            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052111.iso"
+          },
+          {
+            "language": "Thai",
+            "architecture": "x32",
+            "filename": "th_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052148.iso",
+            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052148.iso"
+          },
+          {
+            "language": "Turkish",
+            "architecture": "x64",
+            "filename": "tr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052112.iso",
+            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052112.iso"
+          },
+          {
+            "language": "Turkish",
+            "architecture": "x32",
+            "filename": "tr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052149.iso",
+            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052149.iso"
+          },
+          {
+            "language": "Ukrainian",
+            "architecture": "x64",
+            "filename": "uk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052113.iso",
+            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052113.iso"
+          },
+          {
+            "language": "Ukrainian",
+            "architecture": "x32",
+            "filename": "uk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052150.iso",
+            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052150.iso"
+          }
+        ]
+      },
+      {
+        "version_name": "Windows Embedded 8.1 Industry Enterprise",
+        "version_label": "Windows Embedded 8.1 Industry Enterprise",
+        "build": "Unknown",
+        "downloads": [
+          {
+            "language": "Arabic",
+            "architecture": "x64",
+            "filename": "ar_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052151.iso",
+            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052151.iso"
+          },
+          {
+            "language": "Arabic",
+            "architecture": "x32",
+            "filename": "ar_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052211.iso",
+            "url": "https://drive.massgrave.dev/ar_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052211.iso"
+          },
+          {
+            "language": "Bulgarian",
+            "architecture": "x64",
+            "filename": "bg_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052152.iso",
+            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052152.iso"
+          },
+          {
+            "language": "Bulgarian",
+            "architecture": "x32",
+            "filename": "bg_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052212.iso",
+            "url": "https://drive.massgrave.dev/bg_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052212.iso"
+          },
+          {
+            "language": "Chinese - Hong Kong SAR",
+            "architecture": "x64",
+            "filename": "hk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052154.iso",
+            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052154.iso"
+          },
+          {
+            "language": "Chinese - Hong Kong SAR",
+            "architecture": "x32",
+            "filename": "hk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052223.iso",
+            "url": "https://drive.massgrave.dev/hk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052223.iso"
+          },
+          {
+            "language": "Chinese - Simplified",
+            "architecture": "x64",
+            "filename": "cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso",
+            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso"
+          },
+          {
+            "language": "Chinese - Simplified",
+            "architecture": "x32",
+            "filename": "cn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052218.iso",
+            "url": "https://drive.massgrave.dev/cn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052218.iso"
+          },
+          {
+            "language": "Chinese - Traditional",
+            "architecture": "x64",
+            "filename": "tw_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052155.iso",
+            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052155.iso"
+          },
+          {
+            "language": "Chinese - Traditional",
+            "architecture": "x32",
+            "filename": "tw_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052231.iso",
+            "url": "https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052231.iso"
+          },
+          {
+            "language": "Croatian",
+            "architecture": "x64",
+            "filename": "hr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052156.iso",
+            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052156.iso"
+          },
+          {
+            "language": "Croatian",
+            "architecture": "x32",
+            "filename": "hr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052238.iso",
+            "url": "https://drive.massgrave.dev/hr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052238.iso"
+          },
+          {
+            "language": "Czech",
+            "architecture": "x64",
+            "filename": "cs_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052157.iso",
+            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052157.iso"
+          },
+          {
+            "language": "Czech",
+            "architecture": "x32",
+            "filename": "cs_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052240.iso",
+            "url": "https://drive.massgrave.dev/cs_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052240.iso"
+          },
+          {
+            "language": "Danish",
+            "architecture": "x64",
+            "filename": "da_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052158.iso",
+            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052158.iso"
+          },
+          {
+            "language": "Danish",
+            "architecture": "x32",
+            "filename": "da_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6075580.iso",
+            "url": "https://drive.massgrave.dev/da_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6075580.iso"
+          },
+          {
+            "language": "Dutch",
+            "architecture": "x64",
+            "filename": "nl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052159.iso",
+            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052159.iso"
+          },
+          {
+            "language": "Dutch",
+            "architecture": "x32",
+            "filename": "nl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052247.iso",
+            "url": "https://drive.massgrave.dev/nl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052247.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x64",
+            "filename": "en_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052160.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052160.iso"
+          },
+          {
+            "language": "English",
+            "architecture": "x32",
+            "filename": "en_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052252.iso",
+            "url": "https://drive.massgrave.dev/en_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052252.iso"
+          },
+          {
+            "language": "English - United Kingdom",
+            "architecture": "x64",
+            "filename": "en-gb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052165.iso",
+            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052165.iso"
+          },
+          {
+            "language": "English - United Kingdom",
+            "architecture": "x32",
+            "filename": "en-gb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052254.iso",
+            "url": "https://drive.massgrave.dev/en-gb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052254.iso"
+          },
+          {
+            "language": "Estonian",
+            "architecture": "x64",
+            "filename": "et_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052172.iso",
+            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052172.iso"
+          },
+          {
+            "language": "Estonian",
+            "architecture": "x32",
+            "filename": "et_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052255.iso",
+            "url": "https://drive.massgrave.dev/et_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052255.iso"
+          },
+          {
+            "language": "Finnish",
+            "architecture": "x64",
+            "filename": "fi_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052177.iso",
+            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052177.iso"
+          },
+          {
+            "language": "Finnish",
+            "architecture": "x32",
+            "filename": "fi_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052256.iso",
+            "url": "https://drive.massgrave.dev/fi_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052256.iso"
+          },
+          {
+            "language": "French",
+            "architecture": "x64",
+            "filename": "fr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052183.iso",
+            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052183.iso"
+          },
+          {
+            "language": "French",
+            "architecture": "x32",
+            "filename": "fr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052257.iso",
+            "url": "https://drive.massgrave.dev/fr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052257.iso"
+          },
+          {
+            "language": "German",
+            "architecture": "x64",
+            "filename": "de_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075540.iso",
+            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075540.iso"
+          },
+          {
+            "language": "German",
+            "architecture": "x32",
+            "filename": "de_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052258.iso",
+            "url": "https://drive.massgrave.dev/de_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052258.iso"
+          },
+          {
+            "language": "Greek",
+            "architecture": "x64",
+            "filename": "el_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6068418.iso",
+            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6068418.iso"
+          },
+          {
+            "language": "Greek",
+            "architecture": "x32",
+            "filename": "el_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6068419.iso",
+            "url": "https://drive.massgrave.dev/el_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6068419.iso"
+          },
+          {
+            "language": "Hebrew",
+            "architecture": "x64",
+            "filename": "he_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052189.iso",
+            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052189.iso"
+          },
+          {
+            "language": "Hebrew",
+            "architecture": "x32",
+            "filename": "he_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052259.iso",
+            "url": "https://drive.massgrave.dev/he_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052259.iso"
+          },
+          {
+            "language": "Hungarian",
+            "architecture": "x64",
+            "filename": "hu_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075554.iso",
+            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075554.iso"
+          },
+          {
+            "language": "Hungarian",
+            "architecture": "x32",
+            "filename": "hu_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052260.iso",
+            "url": "https://drive.massgrave.dev/hu_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052260.iso"
+          },
+          {
+            "language": "Italian",
+            "architecture": "x64",
+            "filename": "it_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052191.iso",
+            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052191.iso"
+          },
+          {
+            "language": "Italian",
+            "architecture": "x32",
+            "filename": "it_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052265.iso",
+            "url": "https://drive.massgrave.dev/it_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052265.iso"
+          },
+          {
+            "language": "Japanese",
+            "architecture": "x64",
+            "filename": "ja_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052192.iso",
+            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052192.iso"
+          },
+          {
+            "language": "Japanese",
+            "architecture": "x32",
+            "filename": "ja_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052271.iso",
+            "url": "https://drive.massgrave.dev/ja_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052271.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052193.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052193.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052275.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052275.iso"
+          },
+          {
+            "language": "Latvian",
+            "architecture": "x64",
+            "filename": "lv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052194.iso",
+            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052194.iso"
+          },
+          {
+            "language": "Latvian",
+            "architecture": "x32",
+            "filename": "lv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052280.iso",
+            "url": "https://drive.massgrave.dev/lv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052280.iso"
+          },
+          {
+            "language": "Lithuanian",
+            "architecture": "x64",
+            "filename": "lt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052195.iso",
+            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052195.iso"
+          },
+          {
+            "language": "Lithuanian",
+            "architecture": "x32",
+            "filename": "lt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052285.iso",
+            "url": "https://drive.massgrave.dev/lt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052285.iso"
+          },
+          {
+            "language": "Norwegian",
+            "architecture": "x64",
+            "filename": "nb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052196.iso",
+            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052196.iso"
+          },
+          {
+            "language": "Norwegian",
+            "architecture": "x32",
+            "filename": "nb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052289.iso",
+            "url": "https://drive.massgrave.dev/nb_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052289.iso"
+          },
+          {
+            "language": "Polish",
+            "architecture": "x64",
+            "filename": "pl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052197.iso",
+            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052197.iso"
+          },
+          {
+            "language": "Polish",
+            "architecture": "x32",
+            "filename": "pl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052294.iso",
+            "url": "https://drive.massgrave.dev/pl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052294.iso"
+          },
+          {
+            "language": "Portuguese - Brazil",
+            "architecture": "x64",
+            "filename": "pt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052198.iso",
+            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052198.iso"
+          },
+          {
+            "language": "Portuguese - Brazil",
+            "architecture": "x32",
+            "filename": "pt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052297.iso",
+            "url": "https://drive.massgrave.dev/pt_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052297.iso"
+          },
+          {
+            "language": "Portuguese - Portugal",
+            "architecture": "x64",
+            "filename": "pp_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052199.iso",
+            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052199.iso"
+          },
+          {
+            "language": "Portuguese - Portugal",
+            "architecture": "x32",
+            "filename": "pp_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052298.iso",
+            "url": "https://drive.massgrave.dev/pp_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052298.iso"
+          },
+          {
+            "language": "Romanian",
+            "architecture": "x64",
+            "filename": "ro_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052200.iso",
+            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052200.iso"
+          },
+          {
+            "language": "Romanian",
+            "architecture": "x32",
+            "filename": "ro_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052299.iso",
+            "url": "https://drive.massgrave.dev/ro_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052299.iso"
+          },
+          {
+            "language": "Russian",
+            "architecture": "x64",
+            "filename": "ru_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052201.iso",
+            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052201.iso"
+          },
+          {
+            "language": "Russian",
+            "architecture": "x32",
+            "filename": "ru_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052300.iso",
+            "url": "https://drive.massgrave.dev/ru_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052300.iso"
+          },
+          {
+            "language": "Serbian",
+            "architecture": "x64",
+            "filename": "sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052202.iso",
+            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052202.is"
+          },
+          {
+            "language": "Serbian",
+            "architecture": "x32",
+            "filename": "sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052303.iso",
+            "url": "https://drive.massgrave.dev/sr-latn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052303.is"
+          },
+          {
+            "language": "Slovak",
+            "architecture": "x64",
+            "filename": "sk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052203.iso",
+            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052203.iso"
+          },
+          {
+            "language": "Slovak",
+            "architecture": "x32",
+            "filename": "sk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052308.iso",
+            "url": "https://drive.massgrave.dev/sk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052308.iso"
+          },
+          {
+            "language": "Slovenian",
+            "architecture": "x64",
+            "filename": "sl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052204.iso",
+            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052204.iso"
+          },
+          {
+            "language": "Slovenian",
+            "architecture": "x32",
+            "filename": "sl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052314.iso",
+            "url": "https://drive.massgrave.dev/sl_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052314.iso"
+          },
+          {
+            "language": "Spanish",
+            "architecture": "x64",
+            "filename": "es_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052206.iso",
+            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052206.iso"
+          },
+          {
+            "language": "Spanish",
+            "architecture": "x32",
+            "filename": "es_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052318.iso",
+            "url": "https://drive.massgrave.dev/es_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052318.iso"
+          },
+          {
+            "language": "Swedish",
+            "architecture": "x64",
+            "filename": "sv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052207.iso",
+            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052207.iso"
+          },
+          {
+            "language": "Swedish",
+            "architecture": "x32",
+            "filename": "sv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052324.iso",
+            "url": "https://drive.massgrave.dev/sv_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052324.iso"
+          },
+          {
+            "language": "Thai",
+            "architecture": "x64",
+            "filename": "th_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052208.iso",
+            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052208.iso"
+          },
+          {
+            "language": "Thai",
+            "architecture": "x32",
+            "filename": "th_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052326.iso",
+            "url": "https://drive.massgrave.dev/th_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052326.iso"
+          },
+          {
+            "language": "Turkish",
+            "architecture": "x64",
+            "filename": "tr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075568.iso",
+            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6075568.iso"
+          },
+          {
+            "language": "Turkish",
+            "architecture": "x32",
+            "filename": "tr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052327.iso",
+            "url": "https://drive.massgrave.dev/tr_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052327.iso"
+          },
+          {
+            "language": "Ukrainian",
+            "architecture": "x64",
+            "filename": "uk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052210.iso",
+            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052210.iso"
+          },
+          {
+            "language": "Ukrainian",
+            "architecture": "x32",
+            "filename": "uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso",
+            "url": "https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso"
           }
         ]
       }
