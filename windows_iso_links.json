@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T21:17:03.511160Z",
+  "last_updated": "2025-11-08T01:42:36.430530Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
@@ -1663,6 +1663,18 @@
             "url": "https://drive.massgrave.dev/ja_windows_7_ultimate_with_sp1_x86_dvd_u_677445.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_ultimate_k_with_sp1_x64_dvd_u_677502.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_k_with_sp1_x64_dvd_u_677502.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_7_ultimate_with_sp1_x64_dvd_u_677302.iso",
@@ -2090,6 +2102,18 @@
             "url": "https://drive.massgrave.dev/ja_windows_7_enterprise_with_sp1_x86_dvd_u_677757.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_enterprise_k_with_sp1_x64_dvd_u_677728.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_k_with_sp1_x64_dvd_u_677728.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_enterprise_k_with_sp1_x86_dvd_u_677732.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_k_with_sp1_x86_dvd_u_677732.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_7_enterprise_with_sp1_x64_dvd_u_677664.iso",
@@ -2515,6 +2539,18 @@
             "architecture": "x32",
             "filename": "ja_windows_7_professional_with_sp1_x86_dvd_u_677095.iso",
             "url": "https://drive.massgrave.dev/ja_windows_7_professional_with_sp1_x86_dvd_u_677095.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_professional_k_with_sp1_x64_dvd_u_677155.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_professional_k_with_sp1_x64_dvd_u_677155.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_professional_k_with_sp1_x86_dvd_u_677184.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_professional_k_with_sp1_x86_dvd_u_677184.iso"
           },
           {
             "language": "Latvian",
@@ -3371,6 +3407,18 @@
             "url": "https://drive.massgrave.dev/ja_windows_7_home_premium_with_sp1_x86_dvd_u_676708.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_home_premium_k_with_sp1_x64_dvd_u_676808.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_k_with_sp1_x64_dvd_u_676808.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_home_premium_k_with_sp1_x86_dvd_u_676814.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_k_with_sp1_x86_dvd_u_676814.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_7_home_premium_with_sp1_x64_dvd_u_676523.iso",
@@ -3901,6 +3949,12 @@
             "url": "https://drive.massgrave.dev/ja_windows_7_starter_with_sp1_x86_dvd_u_678344.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_starter_k_with_sp1_x86_dvd_u_678554.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_starter_k_with_sp1_x86_dvd_u_678554.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x32",
             "filename": "lv_windows_7_starter_with_sp1_x86_dvd_u_678374.iso",
@@ -3999,8 +4053,8 @@
         ]
       },
       {
-        "version_name": "Windows 7 N, K, and KN Service Pack 1",
-        "version_label": "Windows 7 N, K, and KN Service Pack 1",
+        "version_name": "Windows 7 N Service Pack 1",
+        "version_label": "Windows 7 N Service Pack 1",
         "build": "Unknown",
         "downloads": [
           {
@@ -4158,6 +4212,18 @@
             "architecture": "x32",
             "filename": "it_windows_7_ultimate_n_with_sp1_x86_dvd_u_677605.iso",
             "url": "https://drive.massgrave.dev/it_windows_7_ultimate_n_with_sp1_x86_dvd_u_677605.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_ultimate_kn_with_sp1_x64_dvd_u_677517.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_kn_with_sp1_x64_dvd_u_677517.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_ultimate_kn_with_sp1_x86_dvd_u_677523.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_kn_with_sp1_x86_dvd_u_677523.iso"
           },
           {
             "language": "Latvian",
@@ -4443,6 +4509,18 @@
             "url": "https://drive.massgrave.dev/it_windows_7_enterprise_n_with_sp1_x86_dvd_u_677735.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_enterprise_kn_with_sp1_x64_dvd_u_677736.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_kn_with_sp1_x64_dvd_u_677736.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_enterprise_kn_with_sp1_x86_dvd_u_677740.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_kn_with_sp1_x86_dvd_u_677740.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_7_enterprise_n_with_sp1_x64_dvd_u_677752.iso",
@@ -4724,6 +4802,18 @@
             "architecture": "x32",
             "filename": "it_windows_7_professional_n_with_sp1_x86_dvd_u_677354.iso",
             "url": "https://drive.massgrave.dev/it_windows_7_professional_n_with_sp1_x86_dvd_u_677354.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_professional_kn_with_sp1_x64_dvd_u_677208.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_professional_kn_with_sp1_x64_dvd_u_677208.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_professional_kn_with_sp1_x86_dvd_u_677220.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_professional_kn_with_sp1_x86_dvd_u_677220.iso"
           },
           {
             "language": "Latvian",
@@ -5009,6 +5099,18 @@
             "url": "https://drive.massgrave.dev/it_windows_7_home_premium_n_with_sp1_x86_dvd_u_676932.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_7_home_premium_kn_with_sp1_x64_dvd_u_676818.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_kn_with_sp1_x64_dvd_u_676818.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_home_premium_kn_with_sp1_x86_dvd_u_676823.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_kn_with_sp1_x86_dvd_u_676823.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_7_home_premium_n_with_sp1_x64_dvd_u_676830.iso",
@@ -5214,6 +5316,12 @@
             "url": "https://drive.massgrave.dev/it_windows_7_starter_n_with_sp1_x86_dvd_u_678435.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_7_starter_kn_with_sp1_x86_dvd_u_678255.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_7_starter_kn_with_sp1_x86_dvd_u_678255.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x32",
             "filename": "lv_windows_7_starter_n_with_sp1_x86_dvd_u_678462.iso",
@@ -5272,121 +5380,6 @@
             "architecture": "x32",
             "filename": "sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso",
             "url": "https://drive.massgrave.dev/sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso"
-          }
-        ]
-      },
-      {
-        "version_name": "Windows 7 [Korean (K, KN)] SP1",
-        "version_label": "Windows 7 [Korean (K, KN)] SP1",
-        "build": "Unknown",
-        "downloads": [
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_enterprise_k_with_sp1_x64_dvd_u_677728.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_k_with_sp1_x64_dvd_u_677728.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_enterprise_k_with_sp1_x86_dvd_u_677732.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_k_with_sp1_x86_dvd_u_677732.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_enterprise_kn_with_sp1_x64_dvd_u_677736.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_kn_with_sp1_x64_dvd_u_677736.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_enterprise_kn_with_sp1_x86_dvd_u_677740.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_enterprise_kn_with_sp1_x86_dvd_u_677740.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_home_premium_k_with_sp1_x64_dvd_u_676808.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_k_with_sp1_x64_dvd_u_676808.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_home_premium_k_with_sp1_x86_dvd_u_676814.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_k_with_sp1_x86_dvd_u_676814.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_home_premium_kn_with_sp1_x64_dvd_u_676818.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_kn_with_sp1_x64_dvd_u_676818.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_home_premium_kn_with_sp1_x86_dvd_u_676823.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_home_premium_kn_with_sp1_x86_dvd_u_676823.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_professional_k_with_sp1_x64_dvd_u_677155.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_professional_k_with_sp1_x64_dvd_u_677155.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_professional_k_with_sp1_x86_dvd_u_677184.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_professional_k_with_sp1_x86_dvd_u_677184.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_professional_kn_with_sp1_x64_dvd_u_677208.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_professional_kn_with_sp1_x64_dvd_u_677208.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_professional_kn_with_sp1_x86_dvd_u_677220.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_professional_kn_with_sp1_x86_dvd_u_677220.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_starter_k_with_sp1_x86_dvd_u_678554.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_starter_k_with_sp1_x86_dvd_u_678554.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_starter_kn_with_sp1_x86_dvd_u_678255.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_starter_kn_with_sp1_x86_dvd_u_678255.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_ultimate_k_with_sp1_x64_dvd_u_677502.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_k_with_sp1_x64_dvd_u_677502.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_7_ultimate_kn_with_sp1_x64_dvd_u_677517.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_kn_with_sp1_x64_dvd_u_677517.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_7_ultimate_kn_with_sp1_x86_dvd_u_677523.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_7_ultimate_kn_with_sp1_x86_dvd_u_677523.iso"
           }
         ]
       },
@@ -11035,6 +11028,24 @@
             "url": "https://drive.massgrave.dev/ja_windows_vista_sp2_x86_dvd_342296.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_vista_kn_with_sp2_x64_dvd_x15-36351.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_kn_with_sp2_x64_dvd_x15-36351.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_vista_with_sp2_x64_dvd_x15-36353.iso",
@@ -11553,6 +11564,18 @@
             "url": "https://drive.massgrave.dev/ja_windows_vista_enterprise_sp2_x86_dvd_342391.iso"
           },
           {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.iso"
+          },
+          {
             "language": "Latvian",
             "architecture": "x64",
             "filename": "lv_windows_vista_enterprise_with_sp2_x64_dvd_x15-40392.iso",
@@ -11747,8 +11770,8 @@
         ]
       },
       {
-        "version_name": "Windows Vista N, K, and KN SP2",
-        "version_label": "Windows Vista N, K, and KN SP2",
+        "version_name": "Windows Vista N, KN SP2",
+        "version_label": "Windows Vista N, KN SP2",
         "build": "Unknown",
         "downloads": [
           {
@@ -11786,6 +11809,18 @@
             "architecture": "x32",
             "filename": "de_windows_vista_business_n_sp2_x86_dvd_342368.iso",
             "url": "https://drive.massgrave.dev/de_windows_vista_business_n_sp2_x86_dvd_342368.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko_windows_vista_business_kn_with_sp2_x64_dvd_x15-40625.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_business_kn_with_sp2_x64_dvd_x15-40625.iso"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x32",
+            "filename": "ko_windows_vista_business_kn_with_sp2_x86_dvd_x15-40621.iso",
+            "url": "https://drive.massgrave.dev/ko_windows_vista_business_kn_with_sp2_x86_dvd_x15-40621.iso"
           },
           {
             "language": "Spanish",
@@ -11917,34 +11952,10 @@
         ]
       },
       {
-        "version_name": "Windows Vista [Korean (K, KN)] SP2",
-        "version_label": "Windows Vista [Korean (K, KN)] SP2",
+        "version_name": "Windows Vista Enterprise KN SP2",
+        "version_label": "Windows Vista Enterprise KN SP2",
         "build": "Unknown",
         "downloads": [
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_vista_business_kn_with_sp2_x64_dvd_x15-40625.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_business_kn_with_sp2_x64_dvd_x15-40625.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_vista_business_kn_with_sp2_x86_dvd_x15-40621.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_business_kn_with_sp2_x86_dvd_x15-40621.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.iso"
-          },
           {
             "language": "Korean",
             "architecture": "x64",
@@ -11956,24 +11967,6 @@
             "architecture": "x32",
             "filename": "ko_windows_vista_enterprise_kn_with_sp2_x86_dvd_x15-40621.iso",
             "url": "https://drive.massgrave.dev/ko_windows_vista_enterprise_kn_with_sp2_x86_dvd_x15-40621.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x32",
-            "filename": "ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko_windows_vista_kn_with_sp2_x64_dvd_x15-36351.iso",
-            "url": "https://drive.massgrave.dev/ko_windows_vista_kn_with_sp2_x64_dvd_x15-36351.iso"
           }
         ]
       }
