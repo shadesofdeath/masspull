@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T15:26:32.756896Z",
+  "last_updated": "2026-01-03T20:30:22.792690Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
@@ -5615,63 +5615,6 @@
             "architecture": "x32",
             "filename": "sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso",
             "url": "https://drive.massgrave.dev/sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso"
-          }
-        ]
-      },
-      {
-        "version_name": "Windows Embedded 7",
-        "version_label": "Windows Embedded 7",
-        "build": "Unknown",
-        "downloads": [
-          {
-            "language": "English",
-            "architecture": "x64",
-            "filename": "en_windows_embedded_posready_7_eval_x64_dvd_698169.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_posready_7_eval_x64_dvd_698169.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x32",
-            "filename": "en_windows_embedded_posready_7_eval_x86_dvd_698168.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_posready_7_eval_x86_dvd_698168.iso"
-          }
-        ]
-      },
-      {
-        "version_name": "Windows Embedded Standard 7 SP1",
-        "version_label": "Windows Embedded Standard 7 SP1",
-        "build": "Unknown",
-        "downloads": [
-          {
-            "language": "English",
-            "architecture": "x64",
-            "filename": "en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x32",
-            "filename": "en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso"
-          },
-          {
-            "language": "English",
-            "architecture": "x32",
-            "filename": "en_windows_embedded_standard_7_sp1_toolkit_x86_dvd_651894.iso",
-            "url": "https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_toolkit_x86_dvd_651894.iso"
-          }
-        ]
-      },
-      {
-        "version_name": "Windows Thin PC",
-        "version_label": "Windows Thin PC",
-        "build": "Unknown",
-        "downloads": [
-          {
-            "language": "English",
-            "architecture": "x32",
-            "filename": "en_windows_thin_pc_x86_697681.iso",
-            "url": "https://drive.massgrave.dev/en_windows_thin_pc_x86_697681.iso"
           }
         ]
       }
