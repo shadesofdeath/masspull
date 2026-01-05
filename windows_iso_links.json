@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05T10:34:35.915687Z",
+  "last_updated": "2026-01-05T15:32:12.545978Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
@@ -5615,6 +5615,19 @@
             "architecture": "x32",
             "filename": "sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso",
             "url": "https://drive.massgrave.dev/sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso"
+          }
+        ]
+      },
+      {
+        "version_name": "Windows Embedded 7",
+        "version_label": "Windows Embedded 7",
+        "build": "Unknown",
+        "downloads": [
+          {
+            "language": "English",
+            "architecture": "x32/x64",
+            "filename": "Official Download",
+            "url": "https://www.microsoft.com/en-us/download/details.aspx?id=11887"
           }
         ]
       }
