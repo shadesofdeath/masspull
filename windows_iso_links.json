@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T02:21:43.402635Z",
+  "last_updated": "2026-01-23T05:35:31.135702Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
@@ -241,7 +241,7 @@
       {
         "version_name": "Windows 11 Consumer 25H2 Updated",
         "version_label": "Windows 11 Consumer 25H2",
-        "build": "26200.7462",
+        "build": "26200.7623",
         "downloads": [
           {
             "language": "Arabic",
@@ -462,21 +462,21 @@
           {
             "language": "Chinese-Simplified",
             "architecture": "x64",
-            "filename": "zh-tw_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/dttfbhq5lzee"
+            "filename": "zh-cn_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/3bfpp53bruu8"
           },
           {
             "language": "Chinese-Traditional",
             "architecture": "x64",
-            "filename": "zh-cn_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/3bfpp53bruu8"
+            "filename": "zh-tw_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/dttfbhq5lzee"
           }
         ]
       },
       {
         "version_name": "Windows 11 Business 25H2",
         "version_label": "Windows 11 Business 25H2",
-        "build": "26200.7462",
+        "build": "26200.7623",
         "downloads": [
           {
             "language": "Arabic",
