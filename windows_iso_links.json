@@ -1,11 +1,246 @@
 {
-  "last_updated": "2026-01-29T10:48:10.005426Z",
+  "last_updated": "2026-01-29T15:42:56.350571Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
       {
-        "version_name": "Windows 11 Consumer 25H2",
+        "version_name": "Windows 11 Consumer 25H2 ❤",
         "version_label": "Windows 11 Consumer 25H2 ❤",
+        "build": "26200.7632",
+        "downloads": [
+          {
+            "language": "Arabic",
+            "architecture": "x64",
+            "filename": "ar-sa_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/o5yamvkgrm8f"
+          },
+          {
+            "language": "Bulgarian",
+            "architecture": "x64",
+            "filename": "bg-bg_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/g6fevrwee0zc"
+          },
+          {
+            "language": "Czech",
+            "architecture": "x64",
+            "filename": "cs-cz_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/uxb4q1i80m92"
+          },
+          {
+            "language": "Danish",
+            "architecture": "x64",
+            "filename": "da-dk_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/hdxame2rpdlz"
+          },
+          {
+            "language": "German",
+            "architecture": "x64",
+            "filename": "de-de_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/fqbtr9s1bqja"
+          },
+          {
+            "language": "Greek",
+            "architecture": "x64",
+            "filename": "el-gr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/l5xr7sh5h17y"
+          },
+          {
+            "language": "English-United Kingdom",
+            "architecture": "x64",
+            "filename": "en-gb_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/k8t04ms76ylf"
+          },
+          {
+            "language": "English",
+            "architecture": "x64",
+            "filename": "en-us_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/nmafcrgp5tq4"
+          },
+          {
+            "language": "Spanish",
+            "architecture": "x64",
+            "filename": "es-es_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/suocdcjsu5cd"
+          },
+          {
+            "language": "Spanish-Mexico",
+            "architecture": "x64",
+            "filename": "es-mx_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/1eezo96wgfbd"
+          },
+          {
+            "language": "Estonian",
+            "architecture": "x64",
+            "filename": "et-ee_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/r5hqx9tpp136"
+          },
+          {
+            "language": "Finnish",
+            "architecture": "x64",
+            "filename": "fi-fi_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/17z36bv6fq6h"
+          },
+          {
+            "language": "French-Canada",
+            "architecture": "x64",
+            "filename": "fr-ca_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/ny8tlfjin92u"
+          },
+          {
+            "language": "French",
+            "architecture": "x64",
+            "filename": "fr-fr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/f8wokg11c5hl"
+          },
+          {
+            "language": "Hebrew",
+            "architecture": "x64",
+            "filename": "he-il_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/8puymm5zfjsl"
+          },
+          {
+            "language": "Croatian",
+            "architecture": "x64",
+            "filename": "hr-hr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/70tg41f1u9m9"
+          },
+          {
+            "language": "Hungarian",
+            "architecture": "x64",
+            "filename": "hu-hu_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/pe6v3fz5tvci"
+          },
+          {
+            "language": "Italian",
+            "architecture": "x64",
+            "filename": "it-it_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/0kn1m8ivuoop"
+          },
+          {
+            "language": "Japanese",
+            "architecture": "x64",
+            "filename": "ja-jp_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/c59eirdm7gdh"
+          },
+          {
+            "language": "Korean",
+            "architecture": "x64",
+            "filename": "ko-kr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/d16cn9irgqdu"
+          },
+          {
+            "language": "Lithuanian",
+            "architecture": "x64",
+            "filename": "lt-lt_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/gigq4tsq13ok"
+          },
+          {
+            "language": "Latvian",
+            "architecture": "x64",
+            "filename": "lv-lv_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/k6z9dl2jwh3w"
+          },
+          {
+            "language": "Norwegian-Bokmal",
+            "architecture": "x64",
+            "filename": "nb-no_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/uqmucgfgv0s4"
+          },
+          {
+            "language": "Dutch-Netherlands",
+            "architecture": "x64",
+            "filename": "nl-nl_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/i34331zy4r49"
+          },
+          {
+            "language": "Polish",
+            "architecture": "x64",
+            "filename": "pl-pl_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/m4125ndff24r"
+          },
+          {
+            "language": "Portuguese-Brazil",
+            "architecture": "x64",
+            "filename": "pt-br_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/chrn3qvvaoqt"
+          },
+          {
+            "language": "Portuguese-Portugal",
+            "architecture": "x64",
+            "filename": "pt-pt_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/nboefqlhvbt1"
+          },
+          {
+            "language": "Romanian",
+            "architecture": "x64",
+            "filename": "ro-ro_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/y1jotgokqo8f"
+          },
+          {
+            "language": "Russian",
+            "architecture": "x64",
+            "filename": "ru-ru_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/ix4qpc4khkd2"
+          },
+          {
+            "language": "Slovak",
+            "architecture": "x64",
+            "filename": "sk-sk_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/nts6d5ykekit"
+          },
+          {
+            "language": "Slovenian",
+            "architecture": "x64",
+            "filename": "sl-si_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/bsbhj31n7c15"
+          },
+          {
+            "language": "Serbian-Latin",
+            "architecture": "x64",
+            "filename": "sr-latn-rs_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/stluld4lzh54"
+          },
+          {
+            "language": "Swedish",
+            "architecture": "x64",
+            "filename": "sv-se_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/q4a869ixwrks"
+          },
+          {
+            "language": "Thai",
+            "architecture": "x64",
+            "filename": "th-th_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/ucolvflmz4kg"
+          },
+          {
+            "language": "Turkish",
+            "architecture": "x64",
+            "filename": "tr-tr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/hqdonwoasi9w"
+          },
+          {
+            "language": "Ukranian",
+            "architecture": "x64",
+            "filename": "uk-ua_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/o9au71wwx053"
+          },
+          {
+            "language": "Chinese-Simplified",
+            "architecture": "x64",
+            "filename": "zh-cn_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/3bfpp53bruu8"
+          },
+          {
+            "language": "Chinese-Traditional",
+            "architecture": "x64",
+            "filename": "zh-tw_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
+            "url": "https://buzzheavier.com/dttfbhq5lzee"
+          }
+        ]
+      },
+      {
+        "version_name": "General Availability Release",
+        "version_label": "General Availability Release",
         "build": "26200.6584",
         "downloads": [
           {
@@ -235,241 +470,6 @@
             "architecture": "x64",
             "filename": "26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-tw.iso",
             "url": "https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-tw.iso"
-          }
-        ]
-      },
-      {
-        "version_name": "Windows 11 Consumer 25H2 Updated",
-        "version_label": "Windows 11 Consumer 25H2",
-        "build": "26200.7623",
-        "downloads": [
-          {
-            "language": "Arabic",
-            "architecture": "x64",
-            "filename": "ar-sa_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/o5yamvkgrm8f"
-          },
-          {
-            "language": "Bulgarian",
-            "architecture": "x64",
-            "filename": "bg-bg_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/g6fevrwee0zc"
-          },
-          {
-            "language": "Czech",
-            "architecture": "x64",
-            "filename": "cs-cz_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/uxb4q1i80m92"
-          },
-          {
-            "language": "Danish",
-            "architecture": "x64",
-            "filename": "da-dk_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/hdxame2rpdlz"
-          },
-          {
-            "language": "German",
-            "architecture": "x64",
-            "filename": "de-de_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/fqbtr9s1bqja"
-          },
-          {
-            "language": "Greek",
-            "architecture": "x64",
-            "filename": "el-gr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/l5xr7sh5h17y"
-          },
-          {
-            "language": "English-United Kingdom",
-            "architecture": "x64",
-            "filename": "en-gb_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/k8t04ms76ylf"
-          },
-          {
-            "language": "English",
-            "architecture": "x64",
-            "filename": "en-us_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/nmafcrgp5tq4"
-          },
-          {
-            "language": "Spanish",
-            "architecture": "x64",
-            "filename": "es-es_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/suocdcjsu5cd"
-          },
-          {
-            "language": "Spanish-Mexico",
-            "architecture": "x64",
-            "filename": "es-mx_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/1eezo96wgfbd"
-          },
-          {
-            "language": "Estonian",
-            "architecture": "x64",
-            "filename": "et-ee_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/r5hqx9tpp136"
-          },
-          {
-            "language": "Finnish",
-            "architecture": "x64",
-            "filename": "fi-fi_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/17z36bv6fq6h"
-          },
-          {
-            "language": "French-Canada",
-            "architecture": "x64",
-            "filename": "fr-ca_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/ny8tlfjin92u"
-          },
-          {
-            "language": "French",
-            "architecture": "x64",
-            "filename": "fr-fr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/f8wokg11c5hl"
-          },
-          {
-            "language": "Hebrew",
-            "architecture": "x64",
-            "filename": "he-il_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/8puymm5zfjsl"
-          },
-          {
-            "language": "Croatian",
-            "architecture": "x64",
-            "filename": "hr-hr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/70tg41f1u9m9"
-          },
-          {
-            "language": "Hungarian",
-            "architecture": "x64",
-            "filename": "hu-hu_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/pe6v3fz5tvci"
-          },
-          {
-            "language": "Italian",
-            "architecture": "x64",
-            "filename": "it-it_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/0kn1m8ivuoop"
-          },
-          {
-            "language": "Japanese",
-            "architecture": "x64",
-            "filename": "ja-jp_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/c59eirdm7gdh"
-          },
-          {
-            "language": "Korean",
-            "architecture": "x64",
-            "filename": "ko-kr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/d16cn9irgqdu"
-          },
-          {
-            "language": "Lithuanian",
-            "architecture": "x64",
-            "filename": "lt-lt_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/gigq4tsq13ok"
-          },
-          {
-            "language": "Latvian",
-            "architecture": "x64",
-            "filename": "lv-lv_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/k6z9dl2jwh3w"
-          },
-          {
-            "language": "Norwegian-Bokmal",
-            "architecture": "x64",
-            "filename": "nb-no_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/uqmucgfgv0s4"
-          },
-          {
-            "language": "Dutch-Netherlands",
-            "architecture": "x64",
-            "filename": "nl-nl_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/i34331zy4r49"
-          },
-          {
-            "language": "Polish",
-            "architecture": "x64",
-            "filename": "pl-pl_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/m4125ndff24r"
-          },
-          {
-            "language": "Portuguese-Brazil",
-            "architecture": "x64",
-            "filename": "pt-br_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/chrn3qvvaoqt"
-          },
-          {
-            "language": "Portuguese-Portugal",
-            "architecture": "x64",
-            "filename": "pt-pt_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/nboefqlhvbt1"
-          },
-          {
-            "language": "Romanian",
-            "architecture": "x64",
-            "filename": "ro-ro_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/y1jotgokqo8f"
-          },
-          {
-            "language": "Russian",
-            "architecture": "x64",
-            "filename": "ru-ru_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/ix4qpc4khkd2"
-          },
-          {
-            "language": "Slovak",
-            "architecture": "x64",
-            "filename": "sk-sk_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/nts6d5ykekit"
-          },
-          {
-            "language": "Slovenian",
-            "architecture": "x64",
-            "filename": "sl-si_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/bsbhj31n7c15"
-          },
-          {
-            "language": "Serbian-Latin",
-            "architecture": "x64",
-            "filename": "sr-latn-rs_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/stluld4lzh54"
-          },
-          {
-            "language": "Swedish",
-            "architecture": "x64",
-            "filename": "sv-se_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/q4a869ixwrks"
-          },
-          {
-            "language": "Thai",
-            "architecture": "x64",
-            "filename": "th-th_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/ucolvflmz4kg"
-          },
-          {
-            "language": "Turkish",
-            "architecture": "x64",
-            "filename": "tr-tr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/hqdonwoasi9w"
-          },
-          {
-            "language": "Ukranian",
-            "architecture": "x64",
-            "filename": "uk-ua_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/o9au71wwx053"
-          },
-          {
-            "language": "Chinese-Simplified",
-            "architecture": "x64",
-            "filename": "zh-cn_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/3bfpp53bruu8"
-          },
-          {
-            "language": "Chinese-Traditional",
-            "architecture": "x64",
-            "filename": "zh-tw_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso",
-            "url": "https://buzzheavier.com/dttfbhq5lzee"
           }
         ]
       },
@@ -5620,7 +5620,7 @@
       },
       {
         "version_name": "Windows Embedded 7",
-        "version_label": "Windows Embedded 7",
+        "version_label": "Windows Embedded Standard 7",
         "build": "Unknown",
         "downloads": [
           {
