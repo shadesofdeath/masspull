@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-03T15:57:19.346851Z",
+  "last_updated": "2026-02-03T20:48:12.797207Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
       {
         "version_name": "Windows 11 Consumer 25H2 ❤",
         "version_label": "Windows 11 Consumer 25H2 ❤",
-        "build": "26200.7632",
+        "build": "26200.7623",
         "downloads": [
           {
             "language": "Arabic",
