@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T06:01:50.780451Z",
+  "last_updated": "2026-02-17T10:54:56.701731Z",
   "source": "https://github.com/massgravel/massgrave.dev",
   "windows_versions": {
     "Windows 11": [
@@ -9784,229 +9784,229 @@
         "downloads": [
           {
             "language": "Arabic",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ar-sa_windows_11_consumer_editions_version_26h1_arm64_dvd_06769520.iso",
             "url": "https://buzzheavier.com/78eddnkjgrah"
           },
           {
             "language": "Bulgarian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "bg-bg_windows_11_consumer_editions_version_26h1_arm64_dvd_16796017.iso",
             "url": "https://buzzheavier.com/kdvrbpkosr3j"
           },
           {
             "language": "Czech",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "cs-cz_windows_11_consumer_editions_version_26h1_arm64_dvd_81fb41cc.iso",
             "url": "https://buzzheavier.com/14yjtkthphh9"
           },
           {
             "language": "Danish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "da-dk_windows_11_consumer_editions_version_26h1_arm64_dvd_26d67ed2.iso",
             "url": "https://buzzheavier.com/duityqr0ki4i"
           },
           {
             "language": "German",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "de-de_windows_11_consumer_editions_version_26h1_arm64_dvd_86bba15f.iso",
             "url": "https://buzzheavier.com/m0rjcmt63lwn"
           },
           {
             "language": "Greek",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "el-gr_windows_11_consumer_editions_version_26h1_arm64_dvd_1c0194a6.iso",
             "url": "https://buzzheavier.com/ey883mhc5sq9"
           },
           {
             "language": "English-United Kingdom",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "en-gb_windows_11_consumer_editions_version_26h1_arm64_dvd_98335368.iso",
             "url": "https://buzzheavier.com/fidoiwuj884i"
           },
           {
             "language": "English",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "en-us_windows_11_consumer_editions_version_26h1_arm64_dvd_75375ff3.iso",
             "url": "https://buzzheavier.com/yg4mpz7la2rp"
           },
           {
             "language": "Spanish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "es-es_windows_11_consumer_editions_version_26h1_arm64_dvd_10a63796.iso",
             "url": "https://buzzheavier.com/lt3oh4zoggi2"
           },
           {
             "language": "Spanish-Mexico",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "es-mx_windows_11_consumer_editions_version_26h1_arm64_dvd_54d05e9b.iso",
             "url": "https://buzzheavier.com/wu56pxw7a6cg"
           },
           {
             "language": "Estonian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "et-ee_windows_11_consumer_editions_version_26h1_arm64_dvd_d26b3c7a.iso",
             "url": "https://buzzheavier.com/3sd8l7hu2ji4"
           },
           {
             "language": "Finnish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "fi-fi_windows_11_consumer_editions_version_26h1_arm64_dvd_41354c76.iso",
             "url": "https://buzzheavier.com/44ol497v6kqe"
           },
           {
             "language": "French-Canada",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "fr-ca_windows_11_consumer_editions_version_26h1_arm64_dvd_3122f2e0.iso",
             "url": "https://buzzheavier.com/692hpal6uxi2"
           },
           {
             "language": "French",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "fr-fr_windows_11_consumer_editions_version_26h1_arm64_dvd_f083df6f.iso",
             "url": "https://buzzheavier.com/1zk6gno5q4rj"
           },
           {
             "language": "Hebrew",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "he-il_windows_11_consumer_editions_version_26h1_arm64_dvd_561cfa99.iso",
             "url": "https://buzzheavier.com/9ykdff2v1jo3"
           },
           {
             "language": "Croatian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "hr-hr_windows_11_consumer_editions_version_26h1_arm64_dvd_31ec177c.iso",
             "url": "https://buzzheavier.com/bxh7dyxj41vb"
           },
           {
             "language": "Hungarian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "hu-hu_windows_11_consumer_editions_version_26h1_arm64_dvd_bf566b90.iso",
             "url": "https://buzzheavier.com/wche087cclif"
           },
           {
             "language": "Italian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "it-it_windows_11_consumer_editions_version_26h1_arm64_dvd_f0d89f3b.iso",
             "url": "https://buzzheavier.com/mqdnqljxb0sn"
           },
           {
             "language": "Japanese",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ja-jp_windows_11_consumer_editions_version_26h1_arm64_dvd_6bba5050.iso",
             "url": "https://buzzheavier.com/3n74wkhzojwz"
           },
           {
             "language": "Korean",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ko-kr_windows_11_consumer_editions_version_26h1_arm64_dvd_a7a15fe8.iso",
             "url": "https://buzzheavier.com/xepsljv6w70t"
           },
           {
             "language": "Lithuanian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "lt-lt_windows_11_consumer_editions_version_26h1_arm64_dvd_7625fdd7.iso",
             "url": "https://buzzheavier.com/qfcdo2grgob7"
           },
           {
             "language": "Latvian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "lv-lv_windows_11_consumer_editions_version_26h1_arm64_dvd_d58868dc.iso",
             "url": "https://buzzheavier.com/w8wk83xjw4pz"
           },
           {
             "language": "Norwegian-Bokmal",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "nb-no_windows_11_consumer_editions_version_26h1_arm64_dvd_90d886e5.iso",
             "url": "https://buzzheavier.com/qh4o1g2jisq0"
           },
           {
             "language": "Dutch-Netherlands",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "nl-nl_windows_11_consumer_editions_version_26h1_arm64_dvd_a3e107cc.iso",
             "url": "https://buzzheavier.com/jzmw6vevyycs"
           },
           {
             "language": "Polish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "pl-pl_windows_11_consumer_editions_version_26h1_arm64_dvd_2c69347f.iso",
             "url": "https://buzzheavier.com/7k3agg6u10wz"
           },
           {
             "language": "Portuguese-Brazil",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "pt-br_windows_11_consumer_editions_version_26h1_arm64_dvd_013cc8d1.iso",
             "url": "https://buzzheavier.com/zza7p1c2hn2m"
           },
           {
             "language": "Portuguese-Portugal",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "pt-pt_windows_11_consumer_editions_version_26h1_arm64_dvd_100f1d83.iso",
             "url": "https://buzzheavier.com/dsdkusntoqgi"
           },
           {
             "language": "Romanian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ro-ro_windows_11_consumer_editions_version_26h1_arm64_dvd_c08b2b81.iso",
             "url": "https://buzzheavier.com/0rv7nj7bsv7d"
           },
           {
             "language": "Russian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ru-ru_windows_11_consumer_editions_version_26h1_arm64_dvd_31c16628.iso",
             "url": "https://buzzheavier.com/s27cl7qw0ps0"
           },
           {
             "language": "Slovak",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sk-sk_windows_11_consumer_editions_version_26h1_arm64_dvd_5cd80d0c.iso",
             "url": "https://buzzheavier.com/qgh4gm9v70td"
           },
           {
             "language": "Slovenian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sl-si_windows_11_consumer_editions_version_26h1_arm64_dvd_1a9dc16e.iso",
             "url": "https://buzzheavier.com/dk5tldtr7l41"
           },
           {
             "language": "Serbian-Latin",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sr-latn-rs_windows_11_consumer_editions_version_26h1_arm64_dvd_5f3526c5.iso",
             "url": "https://buzzheavier.com/ein20ab3b1pu"
           },
           {
             "language": "Swedish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sv-se_windows_11_consumer_editions_version_26h1_arm64_dvd_45daceb9.iso",
             "url": "https://buzzheavier.com/ihcyobjcin8j"
           },
           {
             "language": "Thai",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "th-th_windows_11_consumer_editions_version_26h1_arm64_dvd_6818b7ac.iso",
             "url": "https://buzzheavier.com/u5lr4mk8n1j1"
           },
           {
             "language": "Turkish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "tr-tr_windows_11_consumer_editions_version_26h1_arm64_dvd_6af6cd20.iso",
             "url": "https://buzzheavier.com/ot1skesqxaa2"
           },
           {
             "language": "Ukranian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "uk-ua_windows_11_consumer_editions_version_26h1_arm64_dvd_35844a63.iso",
             "url": "https://buzzheavier.com/ol3cbcks31jx"
           },
           {
             "language": "Chinese-Simplified",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "zh-cn_windows_11_consumer_editions_version_26h1_arm64_dvd_900d64ce.iso",
             "url": "https://buzzheavier.com/a80m5eb6dlf4"
           },
           {
             "language": "Chinese-Traditional",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "zh-tw_windows_11_consumer_editions_version_26h1_arm64_dvd_312a48a9.iso",
             "url": "https://buzzheavier.com/wj837etx4ib6"
           }
@@ -10019,229 +10019,229 @@
         "downloads": [
           {
             "language": "Arabic",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ar-sa_windows_11_business_editions_version_26h1_arm64_dvd_c4b69d4d.iso",
             "url": "https://buzzheavier.com/emec9bof21qa"
           },
           {
             "language": "Bulgarian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "bg-bg_windows_11_business_editions_version_26h1_arm64_dvd_f001bd87.iso",
             "url": "https://buzzheavier.com/smzatvu6bhbe"
           },
           {
             "language": "Czech",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "cs-cz_windows_11_business_editions_version_26h1_arm64_dvd_3ccc431c.iso",
             "url": "https://buzzheavier.com/q4l15udnslm3"
           },
           {
             "language": "Danish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "da-dk_windows_11_business_editions_version_26h1_arm64_dvd_d5833a4b.iso",
             "url": "https://buzzheavier.com/oqv9b1wlshcl"
           },
           {
             "language": "German",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "de-de_windows_11_business_editions_version_26h1_arm64_dvd_ee927406.iso",
             "url": "https://buzzheavier.com/sxzp8ypu7jz1"
           },
           {
             "language": "Greek",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "el-gr_windows_11_business_editions_version_26h1_arm64_dvd_000add9a.iso",
             "url": "https://buzzheavier.com/ietf84vw525v"
           },
           {
             "language": "English-United Kingdom",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "en-gb_windows_11_business_editions_version_26h1_arm64_dvd_9d2c742f.iso",
             "url": "https://buzzheavier.com/z2lxf2fbspej"
           },
           {
             "language": "English",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "en-us_windows_11_business_editions_version_26h1_arm64_dvd_e4e55671.iso",
             "url": "https://buzzheavier.com/73m224i1k8nq"
           },
           {
             "language": "Spanish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "es-es_windows_11_business_editions_version_26h1_arm64_dvd_1d84d69f.iso",
             "url": "https://buzzheavier.com/v42cxz4i25a7"
           },
           {
             "language": "Spanish-Mexico",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "es-mx_windows_11_business_editions_version_26h1_arm64_dvd_63843ae5.iso",
             "url": "https://buzzheavier.com/4sh00a4gmuq9"
           },
           {
             "language": "Estonian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "et-ee_windows_11_business_editions_version_26h1_arm64_dvd_684ba4a9.iso",
             "url": "https://buzzheavier.com/3c88j8ouayjp"
           },
           {
             "language": "Finnish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "fi-fi_windows_11_business_editions_version_26h1_arm64_dvd_0135e203.iso",
             "url": "https://buzzheavier.com/wxukh33wab56"
           },
           {
             "language": "French-Canada",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "fr-ca_windows_11_business_editions_version_26h1_arm64_dvd_9cc0b23a.iso",
             "url": "https://buzzheavier.com/twppzg7msne3"
           },
           {
             "language": "French",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "fr-fr_windows_11_business_editions_version_26h1_arm64_dvd_9abe952b.iso",
             "url": "https://buzzheavier.com/ow6vtu96dis8"
           },
           {
             "language": "Hebrew",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "he-il_windows_11_business_editions_version_26h1_arm64_dvd_71de45e4.iso",
             "url": "https://buzzheavier.com/nklqe98q9wmy"
           },
           {
             "language": "Croatian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "hr-hr_windows_11_business_editions_version_26h1_arm64_dvd_bc65e059.iso",
             "url": "https://buzzheavier.com/1q1ffp8pu3b2"
           },
           {
             "language": "Hungarian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "hu-hu_windows_11_business_editions_version_26h1_arm64_dvd_9abeb133.iso",
             "url": "https://buzzheavier.com/64wv91kaizjr"
           },
           {
             "language": "Italian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "it-it_windows_11_business_editions_version_26h1_arm64_dvd_6eb5fe21.iso",
             "url": "https://buzzheavier.com/tpkzc4l87btf"
           },
           {
             "language": "Japanese",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ja-jp_windows_11_business_editions_version_26h1_arm64_dvd_45015475.iso",
             "url": "https://buzzheavier.com/vp2bqhgpkmbc"
           },
           {
             "language": "Korean",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ko-kr_windows_11_business_editions_version_26h1_arm64_dvd_b0132efb.iso",
             "url": "https://buzzheavier.com/vakpyvcqfjm5"
           },
           {
             "language": "Lithuanian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "lt-lt_windows_11_business_editions_version_26h1_arm64_dvd_2bec3cb9.iso",
             "url": "https://buzzheavier.com/w4znwipcp3xk"
           },
           {
             "language": "Latvian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "lv-lv_windows_11_business_editions_version_26h1_arm64_dvd_082c8a3c.iso",
             "url": "https://buzzheavier.com/4zexac287qlu"
           },
           {
             "language": "Norwegian-Bokmal",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "nb-no_windows_11_business_editions_version_26h1_arm64_dvd_06412571.iso",
             "url": "https://buzzheavier.com/5gckg1qw6cj8"
           },
           {
             "language": "Dutch-Netherlands",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "nl-nl_windows_11_business_editions_version_26h1_arm64_dvd_f9c5d00d.iso",
             "url": "https://buzzheavier.com/ord490rad80r"
           },
           {
             "language": "Polish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "pl-pl_windows_11_business_editions_version_26h1_arm64_dvd_a21b9d40.iso",
             "url": "https://buzzheavier.com/kh6jiy3c0tsj"
           },
           {
             "language": "Portuguese-Brazil",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "pt-br_windows_11_business_editions_version_26h1_arm64_dvd_24ccb06c.iso",
             "url": "https://buzzheavier.com/bl70s44uyd4y"
           },
           {
             "language": "Portuguese-Portugal",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "pt-pt_windows_11_business_editions_version_26h1_arm64_dvd_7d280001.iso",
             "url": "https://buzzheavier.com/o0w1rbspe0pg"
           },
           {
             "language": "Romanian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ro-ro_windows_11_business_editions_version_26h1_arm64_dvd_38d6b558.iso",
             "url": "https://buzzheavier.com/vlvostxrztf5"
           },
           {
             "language": "Russian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "ru-ru_windows_11_business_editions_version_26h1_arm64_dvd_96451e61.iso",
             "url": "https://buzzheavier.com/r1lng24wu3d5"
           },
           {
             "language": "Slovak",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sk-sk_windows_11_business_editions_version_26h1_arm64_dvd_bc4650d9.iso",
             "url": "https://buzzheavier.com/fyc47l7nvera"
           },
           {
             "language": "Slovenian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sl-si_windows_11_business_editions_version_26h1_arm64_dvd_5edeea01.iso",
             "url": "https://buzzheavier.com/xs5yfrb2q4g2"
           },
           {
             "language": "Serbian-Latin",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sr-latn-rs_windows_11_business_editions_version_26h1_arm64_dvd_9fc95b87.iso",
             "url": "https://buzzheavier.com/5fpd8iqsbob7"
           },
           {
             "language": "Swedish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "sv-se_windows_11_business_editions_version_26h1_arm64_dvd_8e26f79e.iso",
             "url": "https://buzzheavier.com/p8e3zrykkulg"
           },
           {
             "language": "Thai",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "th-th_windows_11_business_editions_version_26h1_arm64_dvd_a5bdde69.iso",
             "url": "https://buzzheavier.com/4qsj3f7h4jqg"
           },
           {
             "language": "Turkish",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "tr-tr_windows_11_business_editions_version_26h1_arm64_dvd_a96f7580.iso",
             "url": "https://buzzheavier.com/es7yc6axerlk"
           },
           {
             "language": "Ukranian",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "uk-ua_windows_11_business_editions_version_26h1_arm64_dvd_20adb328.iso",
             "url": "https://buzzheavier.com/xail3pj66kcf"
           },
           {
             "language": "Chinese-Simplified",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "zh-cn_windows_11_business_editions_version_26h1_arm64_dvd_06885171.iso",
             "url": "https://buzzheavier.com/u6zzefqgfgiq"
           },
           {
             "language": "Chinese-Traditional",
-            "architecture": "x64",
+            "architecture": "ARM64",
             "filename": "zh-tw_windows_11_business_editions_version_26h1_arm64_dvd_70e0c828.iso",
             "url": "https://buzzheavier.com/il7ys4o90zhl"
           }
